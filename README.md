@@ -6,8 +6,10 @@ VSWR / Return loss analyzer
 
 LTC5587
 
-name | price
--- | --
-[LMH2110TM](http://www.digikey.com/short/tc0fjb) | 2.64
+
+| name |  $   |
+| ---- | ---- |
+| [LMH2110TM](http://www.digikey.com/short/tc0fjb) | 2.64 |
+
 
 ### 
