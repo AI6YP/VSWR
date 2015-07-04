@@ -26,7 +26,7 @@ Name                                           | $     | Frequency          | Pa
 ## WiFi interface
 [ESP8266 SMD board](http://www.electrodragon.com/w/ESP8266_SMD_Board) board $4
 
-[ESP-12E](http://www.electrodragon.com/product/esp-12e-esp8266-wifi-board/) [ESP-13](http://www.electrodragon.com/product/esp-13-esp8266-wifi-board/)
+[ESP-12E](http://www.electrodragon.com/product/esp-12e-esp8266-wifi-board/) / [ESP-13](http://www.electrodragon.com/product/esp-13-esp8266-wifi-board/)
 
 ![ESP-13](img/esp-13.jpg)
 
