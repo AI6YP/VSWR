@@ -28,6 +28,6 @@ Name                                           | $     | Frequency          | Pa
 
 [ESP-12E](http://www.electrodragon.com/product/esp-12e-esp8266-wifi-board/) / [ESP-13](http://www.electrodragon.com/product/esp-13-esp8266-wifi-board/)
 
-![ESP-13](img/esp-13.jpg)
+![ESP-13](img/esp-12e.png)
 
 ## Power
