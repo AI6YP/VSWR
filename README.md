@@ -1,10 +1,16 @@
 # VSWR
 VSWR / Return loss analyzer
 
-## Directional coupler
+## Schematic
+
+![coupler](eagle/vswr.png)
+
+## Parts
+
+### Directional coupler
 ![coupler](img/coupler.png)
 
-## RMS Power Detector
+### RMS Power Detector
 LTC5587
 
 Name                                             | $     | Frequency     | Input Range    | Package  | Interface
@@ -15,7 +21,7 @@ Name                                             | $     | Frequency     | Input
 [AD8319](http://www.digikey.com/short/tc02hf)    | 4.84  | 1MHz ~ 10GHz  | -60dBm ~ -2dBm | 8-VFDFN  | analog
 [LTC5587](http://www.digikey.com/short/tc02dt)   | 11.03 | 10MHz ~ 6GHz  | -34dBm ~ 6dBm  | 12-WFDFN | SPI
 
-## RF Synthesizer/VCO
+### RF Synthesizer/VCO
 
 Name                                           | $     | Frequency          | Package | Interface
 ---------------------------------------------- | ----- | ------------------ | ------- | ---------
@@ -23,11 +29,11 @@ Name                                           | $     | Frequency          | Pa
 
 ![max2871](img/max2871.png)
 
-## WiFi interface
+### WiFi interface
 [ESP8266 SMD board](http://www.electrodragon.com/w/ESP8266_SMD_Board) board $4
 
 [ESP-12E](http://www.electrodragon.com/product/esp-12e-esp8266-wifi-board/) / [ESP-13](http://www.electrodragon.com/product/esp-13-esp8266-wifi-board/)
 
 ![ESP-13](img/esp-12e.png)
 
-## Power
+### Power
