@@ -3,7 +3,17 @@ VSWR / Return loss analyzer
 
 ## Schematic
 
-![coupler](eagle/vswr.png)
+![schematic](eagle/vswr.png)
+
+## PCB
+
+### Top
+
+![PCB Top](eagle/vswr_top.png)
+
+### Bottom
+
+![PCB Bottom](eagle/vswr_bot.png)
 
 ## Parts
 
