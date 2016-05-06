@@ -33,11 +33,12 @@ Name                                             | $     | Frequency     | Input
 
 ### RF Synthesizer/VCO
 
-Name                                           | $     | Frequency          | Package | Interface
----------------------------------------------- | ----- | ------------------ | ------- | ---------
-[MAX2871](http://www.digikey.com/short/t7rz2d) | 11.12 | 23.5MHz to 6000MHz | TQFN-32 | SPI
+Name                                           | $     | Frequency        | Package | Interface
+---------------------------------------------- | ----- | ---------------- | ------- | ---------
+[MAX2871](http://www.digikey.com/short/t7rz2d) | 11.12 | 23.5 .. 6000 MHz | TQFN-32 | SPI
+[LMX2592](http://www.digikey.com/short/3j1prr) | 36.72 | 20 .. 9800 MHz   | WQFN-40 | SPI
+[LMX2582](http://www.digikey.com/short/3j1p25) | 20.49 | 20 .. 5500 MHz   | WQFN-40 | SPI
 
-![max2871](img/max2871.png)
 
 ### WiFi interface
 [ESP8266 SMD board](http://www.electrodragon.com/w/ESP8266_SMD_Board) board $4
