@@ -17,6 +17,18 @@ VSWR / Return loss analyzer
 
 ## Parts
 
+| pos | type | size | value |
++-----+------+------+-------+
+| C6, C8, C13, C14 | NP0 | 0603 | 100pF |
+| C11, C15 | X7R | 0603 | 0.1uF |
+| C12, C16 | NP0 | 0603 | 100nF |
+| R9, R13 | RC | 0603 | 100 |
+| R9a, R13a | RC | 0603 | 110 |
+| R11, R12 | RC | 0603 | 1K |
+
+
+
+
 ### Directional coupler
 ![coupler](img/coupler.png)
 
