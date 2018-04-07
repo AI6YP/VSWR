@@ -18,7 +18,7 @@ VSWR / Return loss analyzer
 ## Parts
 
 | pos | type | size | value |
-+-----+------+------+-------+
+|-----|------|------|-------|
 | C6, C8, C13, C14 | NP0 | 0603 | 100pF |
 | C11, C15 | X7R | 0603 | 0.1uF |
 | C12, C16 | NP0 | 0603 | 100nF |
